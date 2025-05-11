@@ -15,6 +15,10 @@ Binary image matrix and applies a series of custom corner and edge detection ker
 - Google Colab : Best Space for running Jupyter Notebook with hosted server
 - Numpy : Best Library for working with arrays in python
 
+## 💻 Run the Notebook on Google Colab
+
+You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/Colorize-Grayscale-Images/blob/main/Code/Image_Skeletonizer.ipynb)
+
 ## 🪪 License
 
 This project is licensed under the MIT License.
