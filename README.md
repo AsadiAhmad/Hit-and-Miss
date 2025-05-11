@@ -17,7 +17,7 @@ Binary image matrix and applies a series of custom corner and edge detection ker
 
 ## 💻 Run the Notebook on Google Colab
 
-You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/Colorize-Grayscale-Images/blob/main/Code/Image_Skeletonizer.ipynb)
+You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/Hit-and-Miss/blob/main/Code/Hit_and_Miss.ipynb)
 
 ## 🪪 License
 
