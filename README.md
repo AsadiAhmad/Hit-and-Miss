@@ -14,3 +14,7 @@ Binary image matrix and applies a series of custom corner and edge detection ker
 - Jupyter Notebook : Best tool for running python cell by cell
 - Google Colab : Best Space for running Jupyter Notebook with hosted server
 - Numpy : Best Library for working with arrays in python
+
+## 🪪 License
+
+This project is licensed under the MIT License.
